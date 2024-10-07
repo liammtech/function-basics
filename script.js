@@ -13,6 +13,11 @@ console.log(myNewText);
 
 /* Array join */
 
-const myArray = ["Welcome", "to", "the", "jungle"]
-const arrayString = myArray.join(" ")
-console.log(arrayString)
+const myArray = ["Welcome", "to", "the", "jungle"];
+const arrayString = myArray.join(" ");
+console.log(arrayString);
+
+/* Random number generation */
+
+const myNumber = math.random();
+alert(myNumber);
